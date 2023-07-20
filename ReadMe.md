@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=alidirza)
+
 ## 🧐 About
 
 - Hi, I'm alidirza. I am a 3rd year high school student and I have been spending time with codes for about 6 years. I really dont know anything more about me.
@@ -14,5 +14,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alidirza&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=alidirza&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
