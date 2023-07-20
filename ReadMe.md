@@ -15,4 +15,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aliriza&icon=0&color=0)](https://visitcount.itsvg.in)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=alidirza)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
