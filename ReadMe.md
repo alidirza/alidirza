@@ -1,8 +1,7 @@
-<img src="https://iili.io/JhGlOil.gif" width="100%">
 # 🧐 About
 
 - Hi, I'm alidirza. I am a 3rd year high school student and I have been spending time with codes for about 6 years. I really dont know anything more about me.
-
+<img src="https://iili.io/JhGlOil.gif" width="100%">
 # ⚙️ Technologies I use:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white)
